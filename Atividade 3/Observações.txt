@@ -1,0 +1,2 @@
+Ele vai pedir para executar o
+código em 32,64 e 128 bits
